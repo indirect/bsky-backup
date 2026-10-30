@@ -61,3 +61,25 @@
     "atproto": "did:key:zQ3shuSBuXn9G8E7fztipxDh149ZNQTq2ZDAqHpJoPqK6NkyJ"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://indirect.io"
+  ],
+  "prev": "bafyreiftyxf4b32eeirpfaicybjsoqxku77m3kq6vtfjb47jf5pt4vm5rq",
+  "rotationKeys": [
+    "did:key:zQ3shWBWsSPjaaJHo6fWLdrqLfNfSnd61HeWW2Cn1bFKgxZdB",
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://porcini.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "b2iU-SfHTa4K-xJvAv3dLrzawdsckPnaFtrZHJ9PzUpnZCK4mgV8SJZ8eY6F4uIwsXszhMIJP2ZnXqt_XDYq1g",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shuSBuXn9G8E7fztipxDh149ZNQTq2ZDAqHpJoPqK6NkyJ"
+  }
+}
